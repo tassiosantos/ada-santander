@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4549133a-9472-4385-afb2-3322d65bd6f4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Exercicio1/Fahrenheit.java" afterDir="false" />
+    <list default="true" id="4549133a-9472-4385-afb2-3322d65bd6f4" name="Changes" comment="Exercice 1 finished">
+      <change afterPath="$PROJECT_DIR$/src/Exercicio2/Frutaria.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Fahrenheit.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +32,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -45,6 +45,26 @@
       <option name="presentableId" value="Default" />
       <updated>1689210406144</updated>
     </task>
+    <task id="LOCAL-00001" summary="Excercice 1 finished">
+      <created>1689211256968</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1689211256968</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Exercice 1 finished">
+      <created>1689211304821</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1689211304821</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Excercice 1 finished" />
+    <MESSAGE value="Exercice 1 finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercice 1 finished" />
   </component>
 </project>
