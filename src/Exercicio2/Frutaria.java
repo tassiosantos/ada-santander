@@ -23,7 +23,6 @@ public class Frutaria {
         double precoTotal = 0;
         for (int qtdFruta : qtdFrutas) {
             precoTotal += calcularPreco(qtdFruta);
-            System.out.println(precoTotal);
         }
 
         return precoTotal;
