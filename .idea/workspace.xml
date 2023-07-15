@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4549133a-9472-4385-afb2-3322d65bd6f4" name="Changes" comment="Exercice 2 fixed;">
-      <change afterPath="$PROJECT_DIR$/src/Exercicio3/Sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicio2/Frutaria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicio2/Frutaria.java" afterDir="false" />
+    <list default="true" id="4549133a-9472-4385-afb2-3322d65bd6f4" name="Changes" comment="Exercice 3 finished;">
+      <change beforePath="$PROJECT_DIR$/src/Exercicio3/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicio3/Sort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689376197764</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Exercice 3 finished;">
+      <created>1689381619496</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1689381619496</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -89,6 +94,7 @@
     <MESSAGE value="Exercice 1 finished" />
     <MESSAGE value="Exercice 2 finished" />
     <MESSAGE value="Exercice 2 fixed;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercice 2 fixed;" />
+    <MESSAGE value="Exercice 3 finished;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercice 3 finished;" />
   </component>
 </project>

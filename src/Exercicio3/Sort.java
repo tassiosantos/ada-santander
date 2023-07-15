@@ -15,7 +15,8 @@ public class Sort {
 
 
     private static int[] sortDescendingOrder(int[] originalNumbers) {
-        int[] numbers = copyArray(originalNumbers);
+        int[] numbers = new int[originalNumbers.length];
+        System.arraycopy(originalNumbers, 0, numbers, 0, originalNumbers.length);
         for (int i = 0; i < numbers.length; i++) {
             for (int j = i; j < numbers.length; j++) {
                 if(numbers[i]<numbers[j]){
@@ -29,16 +30,9 @@ public class Sort {
         return numbers;
     }
 
-    private static int[] copyArray(int[] originalNumbers) {
-        int[] numbers = new int[originalNumbers.length];
-        for (int i = 0; i < originalNumbers.length; i++) {
-            numbers[i] = originalNumbers[i];
-        }
-        return numbers;
-    }
-
     private static int[] sortAscendingOrder(int[] originalNumbers) {
-        int[] numbers = copyArray(originalNumbers);
+        int[] numbers = new int[originalNumbers.length];
+        System.arraycopy(originalNumbers, 0, numbers, 0, originalNumbers.length);
         for (int i = 0; i < numbers.length; i++) {
             for (int j = i; j < numbers.length; j++) {
                 if(numbers[i]>numbers[j]){
