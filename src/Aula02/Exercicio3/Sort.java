@@ -1,4 +1,4 @@
-package Exercicio3;
+package Aula02.Exercicio3;
 
 import java.util.Arrays;
 
@@ -14,7 +14,7 @@ public class Sort {
     }
 
 
-    private static int[] sortDescendingOrder(int[] originalNumbers) {
+    public static int[] sortDescendingOrder(int[] originalNumbers) {
         int[] numbers = new int[originalNumbers.length];
         System.arraycopy(originalNumbers, 0, numbers, 0, originalNumbers.length);
         for (int i = 0; i < numbers.length; i++) {
@@ -30,7 +30,7 @@ public class Sort {
         return numbers;
     }
 
-    private static int[] sortAscendingOrder(int[] originalNumbers) {
+    public static int[] sortAscendingOrder(int[] originalNumbers) {
         int[] numbers = new int[originalNumbers.length];
         System.arraycopy(originalNumbers, 0, numbers, 0, originalNumbers.length);
         for (int i = 0; i < numbers.length; i++) {
