@@ -1,14 +1,13 @@
 package Aula03;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 
-public class CompraVeiculo {
+public class Exc02 {
 
     public static void main(String[] args) {
-        double[] array = {53000,
-                2350,
-                8450};
+        double[] array = {238500,
+                18350,
+                32450};
         System.out.println(Arrays.toString(custosCarro(array)));
 
     }
@@ -40,10 +39,10 @@ public class CompraVeiculo {
             impostos = Double.valueOf((inteiro + "." + decimal.substring(0,2)));
         }
 
-//        percent[0] = 100*(input[1]/input[0]);
-//        percent[1] = 100*(input[2]/input[0]);
-        percent[0] = distribuidor;
-        percent[1] = impostos;
+        percent[0] = 100*(input[1]/input[0]);
+        percent[1] = 100*(input[2]/input[0]);
+//        percent[0] = distribuidor;
+//        percent[1] = impostos;
         return percent;
     }
 
