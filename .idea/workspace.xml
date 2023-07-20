@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4549133a-9472-4385-afb2-3322d65bd6f4" name="Changes" comment="Aula 3, primeiro commit (presença);">
-      <change afterPath="$PROJECT_DIR$/src/Aula03/Exc04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula03/Exc05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula04/A04EX01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula04/A04EX02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula04/A04EX03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula04/A04EX04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula04/A04EX05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula04/A04EX06.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aula03/CompraVeiculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aula03/Exc02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aula03/Frutaria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aula03/Exc01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
