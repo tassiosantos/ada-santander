@@ -2,10 +2,8 @@ package Aula06;
 
 import java.text.DecimalFormat;
 import java.text.DecimalFormatSymbols;
-import java.util.Arrays;
 import java.util.Locale;
 
-import static java.lang.Character.isDefined;
 
 public class A06EX02 {
 
