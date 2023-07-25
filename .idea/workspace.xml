@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4549133a-9472-4385-afb2-3322d65bd6f4" name="Changes" comment="Aula 3, primeiro commit (presença);">
-      <change afterPath="$PROJECT_DIR$/src/Aula03/Exc06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula05/A05EX01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula05/ComprasInvalidasExceptions.java" afterDir="false" />
+    <list default="true" id="4549133a-9472-4385-afb2-3322d65bd6f4" name="Changes" comment="Aula 5, exercicio frutaria;">
+      <change afterPath="$PROJECT_DIR$/src/Aula06/A06EX01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula06/ImpostoEstadual.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aula04/A04EX07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aula04/A04EX07.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,12 +17,26 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="1342a9ec-5587-4a59-a1e5-98dc7de5d5af" />
+        <option name="url" value="https://github.com/tassiosantos/ada-santander.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectId" id="2SUoE3UobLW2BTvGrJlCNTy3cX3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -109,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689672096965</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Aula 5, exercicio frutaria;">
+      <created>1689986578665</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1689986578665</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -130,6 +149,7 @@
     <MESSAGE value="Exercice 2 fixed;" />
     <MESSAGE value="Exercice 3 finished;" />
     <MESSAGE value="Aula 3, primeiro commit (presença);" />
-    <option name="LAST_COMMIT_MESSAGE" value="Aula 3, primeiro commit (presença);" />
+    <MESSAGE value="Aula 5, exercicio frutaria;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aula 5, exercicio frutaria;" />
   </component>
 </project>
