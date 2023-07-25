@@ -10,4 +10,7 @@ public enum ImpostoEstadual {
     private  ImpostoEstadual(Double valor){
         this.valor = valor;
     }
+
+
+    public Double getValor(){return this.valor;}
 }

@@ -14,7 +14,7 @@ public class A06EX01 {
     }
 
     public static double valorProdutoFinal(double valorProduto, ImpostoEstadual estado) {
-        return arredondar(valorProduto*(1+estado.valor));
+        return arredondar(valorProduto*(1+estado.getValor()));
     }
 
     public static double arredondar(double numero) {
