@@ -5,10 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4549133a-9472-4385-afb2-3322d65bd6f4" name="Changes" comment="Aula 6, fix: exercicio2 terminado;">
-      <change afterPath="$PROJECT_DIR$/src/Aula06/A06EX03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula06/Semana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula07/A07EX01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula07/Semana.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aula06/A06EX02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aula06/A06EX02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula01/Exercicio1/Fahrenheit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula01/Exercicio1/Fahrenheit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula02/Exercicio2/Frutaria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula02/Exercicio2/Frutaria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula02/Exercicio3/Separate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula02/Exercicio3/Separate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula02/Exercicio3/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula02/Exercicio3/Sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula03/Exc01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula03/Exc01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula03/Exc02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula03/Exc02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula03/Exc03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula03/Exc03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula03/Exc04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula03/Exc04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula03/Exc05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula03/Exc05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula03/Exc06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula03/Exc06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula04/A04EX01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula04/A04EX01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula04/A04EX02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula04/A04EX02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula04/A04EX03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula04/A04EX03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula04/A04EX04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula04/A04EX04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula04/A04EX05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula04/A04EX05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula04/A04EX06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula04/A04EX06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula04/A04EX07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula04/A04EX07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula04/LadosInvalidosException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula04/LadosInvalidosException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula05/A05EX01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula05/A05EX01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula05/ComprasInvalidasExceptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula05/ComprasInvalidasExceptions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula06/A06EX01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula06/A06EX01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula06/A06EX02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula06/A06EX02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula06/A06EX03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula06/A06EX03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula06/EstadoInvalidoException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula06/EstadoInvalidoException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula06/ImpostoEstadual.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula06/ImpostoEstadual.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula06/Semana.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula06/Semana.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +80,9 @@
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Aula04" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="aula07" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
