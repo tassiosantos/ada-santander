@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4549133a-9472-4385-afb2-3322d65bd6f4" name="Changes" comment="Aula 7, exercicio1 terminado;">
-      <change afterPath="$PROJECT_DIR$/src/aula07/A07EX02.java" afterDir="false" />
+    <list default="true" id="4549133a-9472-4385-afb2-3322d65bd6f4" name="Changes" comment="Aula 7, exercicio2 terminado;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aula07/A07EX02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula07/A07EX02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690413605124</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Aula 7, exercicio2 terminado;">
+      <created>1690416650271</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1690416650271</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -191,6 +198,7 @@
     <MESSAGE value="Aula 6, fix: exercicio terminado;" />
     <MESSAGE value="Aula 6, fix: exercicio2 terminado;" />
     <MESSAGE value="Aula 7, exercicio1 terminado;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Aula 7, exercicio1 terminado;" />
+    <MESSAGE value="Aula 7, exercicio2 terminado;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aula 7, exercicio2 terminado;" />
   </component>
 </project>
