@@ -4,36 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4549133a-9472-4385-afb2-3322d65bd6f4" name="Changes" comment="Aula 6, fix: exercicio2 terminado;">
-      <change afterPath="$PROJECT_DIR$/src/aula07/A07EX01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula07/Semana.java" afterDir="false" />
+    <list default="true" id="4549133a-9472-4385-afb2-3322d65bd6f4" name="Changes" comment="Aula 7, exercicio1 terminado;">
+      <change afterPath="$PROJECT_DIR$/src/aula07/A07EX02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aula01/Exercicio1/Fahrenheit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula01/Exercicio1/Fahrenheit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aula02/Exercicio2/Frutaria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula02/Exercicio2/Frutaria.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aula02/Exercicio3/Separate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula02/Exercicio3/Separate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aula02/Exercicio3/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula02/Exercicio3/Sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aula03/Exc01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula03/Exc01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aula03/Exc02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula03/Exc02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aula03/Exc03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula03/Exc03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aula03/Exc04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula03/Exc04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aula03/Exc05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula03/Exc05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aula03/Exc06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula03/Exc06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aula04/A04EX01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula04/A04EX01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aula04/A04EX02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula04/A04EX02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aula04/A04EX03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula04/A04EX03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aula04/A04EX04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula04/A04EX04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aula04/A04EX05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula04/A04EX05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aula04/A04EX06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula04/A04EX06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aula04/A04EX07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula04/A04EX07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aula04/LadosInvalidosException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula04/LadosInvalidosException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aula05/A05EX01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula05/A05EX01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aula05/ComprasInvalidasExceptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula05/ComprasInvalidasExceptions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aula06/A06EX01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula06/A06EX01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aula06/A06EX02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula06/A06EX02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aula06/A06EX03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula06/A06EX03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aula06/EstadoInvalidoException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula06/EstadoInvalidoException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aula06/ImpostoEstadual.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula06/ImpostoEstadual.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aula06/Semana.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula06/Semana.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -185,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690246797838</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Aula 7, exercicio1 terminado;">
+      <created>1690413605124</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1690413605124</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -210,6 +190,7 @@
     <MESSAGE value="Aula 6, exercicio terminado;" />
     <MESSAGE value="Aula 6, fix: exercicio terminado;" />
     <MESSAGE value="Aula 6, fix: exercicio2 terminado;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Aula 6, fix: exercicio2 terminado;" />
+    <MESSAGE value="Aula 7, exercicio1 terminado;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aula 7, exercicio1 terminado;" />
   </component>
 </project>
